@@ -15,7 +15,10 @@
 		<module>spring-cloud-simple-eureka-feign</module>
 		<module>spring-cloud-simple-config-server</module>
 		<module>spring-cloud-simple-config-client</module>
-	</modules>
+        <module>spring-cloud-simple-service-A</module>
+		<module>spring-cloud-simple-service-B</module>
+        <module>spring-cloud-simple-api-gateway</module>
+    </modules>
 	<packaging>pom</packaging>
 
 	<name>spring-cloud-simple</name>
